@@ -1,0 +1,18 @@
+export const initialState = {
+    loginEmail: '',
+    loginPsw: '',
+    loggedInUser: {},
+    myCourses: [],
+    courses : [],
+    myHomeworks : [],
+    homeworks : [],
+    classesViewModalContainer: false,
+    coursesObj: {},
+    modalCourseUnitAboutContainer: false,
+    courseUnitObj: {},
+    courseUnitUpdObj : {},
+    modalCourseUnitUpdate: false,
+    courseUnitUpdateName: "",
+    courseUnitUpdateAbout: "",
+    courseUnitSelectValue: "",
+}
